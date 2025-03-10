@@ -34,4 +34,4 @@ python manage.py runserver
 ```
 
 ### 6. Start the application
-Click on the link on the terminal
+Click the link on the terminal to open the application
